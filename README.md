@@ -327,6 +327,9 @@ Documentation is an essential element of software development, providing clear g
 
 Documentation should be accurate and up to date, avoiding outdated information that could lead to errors. Good documentation is essential because it makes it easier for new developers to join the project, speeds up problem resolution, and allows code to be picked up more quickly after a period of not working on it. It also improves team collaboration by providing a clear reference on how the different components of the system interact.
 
+### CONCLUSION
+Through these different points you can realize that having good practices in the codes will help improve their efficiency and usefulness, making them scalable, reusable and efficient, but you must keep in mind that this article talks about the different points that you must take into account when doing code review since they are the key concepts and points, and based on the examples you can take into account what is appropriate for good code quality.
+
 
 ## References
 
