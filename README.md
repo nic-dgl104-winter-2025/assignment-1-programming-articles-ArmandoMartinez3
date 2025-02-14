@@ -343,3 +343,7 @@ Graphite. (n.d.). Code review principles: A guide to effective code reviews. htt
 BrowserStack. (2023, March 15). What is code review? A comprehensive guide. https://www.browserstack.com/guide/what-is-code-review
 
 Mosalla, H. (2023, March 11). Code review: The ultimate guide. https://hamidmosalla.com/2023/03/11/code-review-the-ultimate-guide/
+
+https://chatgpt.com/share/67aee692-c9b4-8012-96da-31c854b69d18
+
+https://chatgpt.com/share/67aee6b0-5e48-8012-bb14-ae933355241d
